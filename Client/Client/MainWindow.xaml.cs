@@ -1,5 +1,4 @@
-﻿using Nancy.Json;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Net;
@@ -7,6 +6,7 @@ using System.Net.Http;
 using System.Text;
 using System.Windows;
 using System.Windows.Media.Imaging;
+using Nancy.Json;
 
 namespace Client
 {
